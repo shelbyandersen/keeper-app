@@ -1,1 +1,3 @@
 # keeper-app
+
+`npm install`
